@@ -11,5 +11,5 @@ RUN apt-get install docker.io -y
 RUN apt-get install git -y
 RUN curl -L "https://github.com/docker/compose/releases/download/1.24.0/docker-compose-$(uname -s)-$(uname -m)" -o /usr/local/bin/docker-compose
 RUN chmod +x /usr/local/bin/docker-compose
-RUN git clone https://github.com/Jericssonjcg/docker-wordpressv1.git
+RUN git clone https://github.com/CodeTechNews/Prototipo.git
 RUN docker-compose up
