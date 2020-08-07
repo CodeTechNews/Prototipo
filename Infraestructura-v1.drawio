@@ -1,6 +1,6 @@
-<mxfile modified="2020-08-06T20:30:40.917Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Safari/605.1.15" etag="kY9969C_1CUXn6PdcGS7" version="13.5.9" type="github" pages="3">
+<mxfile modified="2020-08-07T00:37:42.922Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Safari/605.1.15" etag="nhO8P1eAWTwek69lvgwu" version="13.6.0" type="github" pages="3">
   <diagram id="f106602c-feb2-e66a-4537-3a34d633f6aa" name="Global">
-    <mxGraphModel dx="1142" dy="662" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1186" dy="662" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -134,33 +134,91 @@
     </mxGraphModel>
   </diagram>
   <diagram id="dwbtM9ihvrbJhu38J0D2" name="Dockerfile">
-    
-    <mxGraphModel dx="1142" dy="662" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
-      
+    <mxGraphModel dx="1694" dy="946" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
-        
         <mxCell id="PfiOGzb5X-Eup8_kfjYa-0" />
-        
         <mxCell id="PfiOGzb5X-Eup8_kfjYa-1" parent="PfiOGzb5X-Eup8_kfjYa-0" />
-        
+        <mxCell id="t6Un-QDCrdoLNhDcxdLA-0" value="&lt;b style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 14px; font-style: normal; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px; text-decoration: none;&quot;&gt;Docker File&lt;/b&gt;" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/logos-and-brands-1/512/97_Docker_logo_logos-128.png" vertex="1" parent="PfiOGzb5X-Eup8_kfjYa-1">
+          <mxGeometry x="40" y="260" width="268" height="268" as="geometry" />
+        </mxCell>
+        <mxCell id="t6Un-QDCrdoLNhDcxdLA-3" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="shape=manualInput;whiteSpace=wrap;html=1;dashed=0;size=15;" vertex="1" parent="PfiOGzb5X-Eup8_kfjYa-1">
+          <mxGeometry x="330" y="50" width="460" height="870" as="geometry" />
+        </mxCell>
+        <mxCell id="t6Un-QDCrdoLNhDcxdLA-5" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/348_Ubuntu-128.png" vertex="1" parent="PfiOGzb5X-Eup8_kfjYa-1">
+          <mxGeometry x="385.5" y="150" width="57" height="57" as="geometry" />
+        </mxCell>
+        <mxCell id="t6Un-QDCrdoLNhDcxdLA-6" value="" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#505050;shape=mxgraph.mscae.oms.system_update" vertex="1" parent="PfiOGzb5X-Eup8_kfjYa-1">
+          <mxGeometry x="389" y="220" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="t6Un-QDCrdoLNhDcxdLA-7" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.github_code;pointerEvents=1;" vertex="1" parent="PfiOGzb5X-Eup8_kfjYa-1">
+          <mxGeometry x="383.5" y="344.5" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="t6Un-QDCrdoLNhDcxdLA-9" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-128.png" vertex="1" parent="PfiOGzb5X-Eup8_kfjYa-1">
+          <mxGeometry x="479.5" y="344.5" width="52.5" height="52.5" as="geometry" />
+        </mxCell>
+        <mxCell id="t6Un-QDCrdoLNhDcxdLA-10" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Docker.svg;" vertex="1" parent="PfiOGzb5X-Eup8_kfjYa-1">
+          <mxGeometry x="479.5" y="420" width="66" height="54.12" as="geometry" />
+        </mxCell>
+        <mxCell id="t6Un-QDCrdoLNhDcxdLA-11" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/popular-services-brands/512/laravel-128.png" vertex="1" parent="PfiOGzb5X-Eup8_kfjYa-1">
+          <mxGeometry x="610" y="345.5" width="53.5" height="53.5" as="geometry" />
+        </mxCell>
+        <mxCell id="20hqxl6j8zGtAjKB8XF5-0" value="&lt;div style=&quot;font-family: &amp;#34;helvetica&amp;#34; ; font-style: normal ; letter-spacing: normal ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; text-decoration: none ; text-align: left&quot;&gt;&lt;font color=&quot;#717171&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;Patch Updates&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="PfiOGzb5X-Eup8_kfjYa-1">
+          <mxGeometry x="490" y="230" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="20hqxl6j8zGtAjKB8XF5-2" value="&lt;div style=&quot;font-family: &amp;#34;helvetica&amp;#34; ; font-style: normal ; letter-spacing: normal ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; text-decoration: none ; text-align: left&quot;&gt;&lt;font color=&quot;#717171&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;Laravel&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="PfiOGzb5X-Eup8_kfjYa-1">
+          <mxGeometry x="684.5" y="354.5" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="20hqxl6j8zGtAjKB8XF5-3" value="&lt;div style=&quot;font-family: &amp;#34;helvetica&amp;#34; ; font-style: normal ; letter-spacing: normal ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; text-decoration: none ; text-align: left&quot;&gt;&lt;font color=&quot;#717171&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;Linux Ubuntu v.20.04 LTS&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="PfiOGzb5X-Eup8_kfjYa-1">
+          <mxGeometry x="490" y="163.5" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="20hqxl6j8zGtAjKB8XF5-4" value="&lt;div style=&quot;font-family: &amp;#34;helvetica&amp;#34; ; font-style: normal ; letter-spacing: normal ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; text-decoration: none ; text-align: left&quot;&gt;&lt;font color=&quot;#717171&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;Operation System&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="PfiOGzb5X-Eup8_kfjYa-1">
+          <mxGeometry x="500" y="100" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="20hqxl6j8zGtAjKB8XF5-5" value="&lt;div style=&quot;font-family: &amp;#34;helvetica&amp;#34; ; font-style: normal ; letter-spacing: normal ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; text-decoration: none ; text-align: left&quot;&gt;&lt;font color=&quot;#717171&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;Apps Installed&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="PfiOGzb5X-Eup8_kfjYa-1">
+          <mxGeometry x="508.75" y="290" width="102.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="20hqxl6j8zGtAjKB8XF5-6" value="&lt;div style=&quot;font-family: &amp;#34;helvetica&amp;#34; ; font-style: normal ; letter-spacing: normal ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; text-decoration: none ; text-align: left&quot;&gt;&lt;font color=&quot;#717171&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;Git&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="PfiOGzb5X-Eup8_kfjYa-1">
+          <mxGeometry x="439" y="354.5" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="20hqxl6j8zGtAjKB8XF5-7" value="&lt;div style=&quot;font-family: &amp;#34;helvetica&amp;#34; ; font-style: normal ; letter-spacing: normal ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; text-decoration: none ; text-align: left&quot;&gt;&lt;font color=&quot;#717171&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;Python&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="PfiOGzb5X-Eup8_kfjYa-1">
+          <mxGeometry x="539.5" y="354.5" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="20hqxl6j8zGtAjKB8XF5-8" value="&lt;div style=&quot;font-family: &amp;#34;helvetica&amp;#34; ; font-style: normal ; letter-spacing: normal ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; text-decoration: none ; text-align: left&quot;&gt;&lt;font color=&quot;#717171&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;docker&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-family: &amp;#34;helvetica&amp;#34; ; font-style: normal ; letter-spacing: normal ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; text-decoration: none ; text-align: left&quot;&gt;&lt;font color=&quot;#717171&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;docker compose&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="PfiOGzb5X-Eup8_kfjYa-1">
+          <mxGeometry x="558.5" y="432.06" width="121.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="20hqxl6j8zGtAjKB8XF5-9" value="&lt;div style=&quot;font-family: &amp;#34;helvetica&amp;#34; ; font-style: normal ; letter-spacing: normal ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; text-decoration: none ; text-align: left&quot;&gt;&lt;font color=&quot;#717171&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;UFW -Firewall&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="PfiOGzb5X-Eup8_kfjYa-1">
+          <mxGeometry x="512.19" y="510" width="95.63" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="20hqxl6j8zGtAjKB8XF5-10" value="&lt;div style=&quot;font-family: &amp;#34;helvetica&amp;#34; ; font-style: normal ; letter-spacing: normal ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; text-decoration: none ; text-align: left&quot;&gt;&lt;font color=&quot;#717171&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;Users&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="PfiOGzb5X-Eup8_kfjYa-1">
+          <mxGeometry x="433.37999999999994" y="620" width="35.62" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="20hqxl6j8zGtAjKB8XF5-11" value="&lt;div style=&quot;font-family: &amp;#34;helvetica&amp;#34; ; font-style: normal ; letter-spacing: normal ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; text-decoration: none ; text-align: left&quot;&gt;&lt;font color=&quot;#717171&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;codetechnews&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="PfiOGzb5X-Eup8_kfjYa-1">
+          <mxGeometry x="385.5" y="650" width="104.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="20hqxl6j8zGtAjKB8XF5-12" value="&lt;div style=&quot;font-family: &amp;#34;helvetica&amp;#34; ; font-style: normal ; letter-spacing: normal ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; text-decoration: none ; text-align: left&quot;&gt;&lt;font color=&quot;#717171&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;root&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="PfiOGzb5X-Eup8_kfjYa-1">
+          <mxGeometry x="500" y="650" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="20hqxl6j8zGtAjKB8XF5-13" value="&lt;div style=&quot;font-family: &amp;#34;helvetica&amp;#34; ; font-style: normal ; letter-spacing: normal ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; text-decoration: none ; text-align: left&quot;&gt;&lt;font color=&quot;#717171&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;Groups&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="PfiOGzb5X-Eup8_kfjYa-1">
+          <mxGeometry x="616.1899999999998" y="620" width="35.62" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="20hqxl6j8zGtAjKB8XF5-14" value="&lt;div style=&quot;font-family: &amp;#34;helvetica&amp;#34; ; font-style: normal ; letter-spacing: normal ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; text-decoration: none ; text-align: left&quot;&gt;&lt;font color=&quot;#717171&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;sudo - docker&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="PfiOGzb5X-Eup8_kfjYa-1">
+          <mxGeometry x="595.63" y="650" width="104.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="20hqxl6j8zGtAjKB8XF5-18" value="&lt;div style=&quot;font-family: &amp;#34;helvetica&amp;#34; ; font-style: normal ; letter-spacing: normal ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; text-decoration: none ; text-align: left&quot;&gt;&lt;font color=&quot;#717171&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;SSH&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="PfiOGzb5X-Eup8_kfjYa-1">
+          <mxGeometry x="399" y="555" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="20hqxl6j8zGtAjKB8XF5-19" value="&lt;div style=&quot;font-family: &amp;#34;helvetica&amp;#34; ; font-style: normal ; letter-spacing: normal ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; text-decoration: none ; text-align: left&quot;&gt;&lt;font color=&quot;#717171&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;Ports:&amp;nbsp;&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;b style=&quot;font-size: 14px ; color: rgb(113 , 113 , 113)&quot;&gt;wordpress, myphpadmin, laravel&lt;/b&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="PfiOGzb5X-Eup8_kfjYa-1">
+          <mxGeometry x="490" y="555" width="267.81" height="30" as="geometry" />
+        </mxCell>
       </root>
-      
     </mxGraphModel>
-    
   </diagram>
   <diagram id="7hidp-hvC7nDvBTQ00Sa" name="Docker-Compose">
-    
-    <mxGraphModel dx="1142" dy="662" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
-      
+    <mxGraphModel dx="1186" dy="662" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
-        
         <mxCell id="3n31DvuJlgHlahGcAuzr-0" />
-        
         <mxCell id="3n31DvuJlgHlahGcAuzr-1" parent="3n31DvuJlgHlahGcAuzr-0" />
-        
       </root>
-      
     </mxGraphModel>
-    
   </diagram>
 </mxfile>
