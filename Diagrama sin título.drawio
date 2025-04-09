@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0" version="26.2.9">
   <diagram id="WI9T0HZ2pTsCkuznbFz-" name="Page-1">
-    <mxGraphModel dx="1300" dy="857" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1560" dy="1028" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -63,9 +63,6 @@
         </mxCell>
         <mxCell id="FIyyPZFt72G_BdUJnwf7-34" value="VMware ESxi" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="697.8" y="702.25" width="115" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="FIyyPZFt72G_BdUJnwf7-35" value="RAID 5&lt;div&gt;3 discos Tolerancia 1&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="168.6" y="567" width="247.29" height="130" as="geometry" />
         </mxCell>
         <mxCell id="FIyyPZFt72G_BdUJnwf7-36" value="" style="whiteSpace=wrap;html=1;aspect=fixed;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="812.8" y="616.75" width="111.5" height="111.5" as="geometry" />
@@ -151,8 +148,8 @@
         <mxCell id="FIyyPZFt72G_BdUJnwf7-80" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/hard_disk.svg;" vertex="1" parent="1">
           <mxGeometry x="340.39000000000004" y="586" width="26.85" height="14.5" as="geometry" />
         </mxCell>
-        <mxCell id="FIyyPZFt72G_BdUJnwf7-82" value="Requisitos del esquema:&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;Servidor de backup:&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;- 2 tarjetas de Red o&amp;nbsp;conexión SCSI.&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;- 2 Discos SSD para replicar el sistema operativo.&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;- 3 Discos SSD para copia de archivos y tolerancia a fallos.&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;Servidor de Esxi:&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;- 2 tarjetas de Red o conexión SCSI.&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;En caso de no poder realizar conexión directa desde el server de Backup al VMware, crear una VLAN de Backup.&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
-          <mxGeometry x="20" y="414" width="200" height="391.62" as="geometry" />
+        <mxCell id="FIyyPZFt72G_BdUJnwf7-82" value="Especificaciones técnicas:&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;Servidor de backup:&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;- 2 tarjetas de Red o&amp;nbsp;conexión SCSI.&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;- 2 Discos SSD para replicar el sistema operativo.&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;- 3 Discos SSD para copia de archivos y tolerancia a fallos.&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;Servidor de Esxi:&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;- 2 tarjetas de Red o conexión SCSI.&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;En caso de no poder realizar conexión directa desde el server de Backup al VMware, crear una VLAN de Backup.&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
+          <mxGeometry x="60" y="413.44" width="170" height="391.62" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
