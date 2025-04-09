@@ -151,6 +151,9 @@
         <mxCell id="FIyyPZFt72G_BdUJnwf7-80" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/hard_disk.svg;" vertex="1" parent="1">
           <mxGeometry x="340.39000000000004" y="586" width="26.85" height="14.5" as="geometry" />
         </mxCell>
+        <mxCell id="FIyyPZFt72G_BdUJnwf7-82" value="Requisitos del esquema:&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;Servidor de backup:&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;- 2 tarjetas de Red o&amp;nbsp;conexión SCSI.&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;- 2 Discos SSD para replicar el sistema operativo.&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;- 3 Discos SSD para copia de archivos y tolerancia a fallos.&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;Servidor de Esxi:&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;- 2 tarjetas de Red o conexión SCSI.&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;En caso de no poder realizar conexión directa desde el server de Backup al VMware, crear una VLAN de Backup.&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
+          <mxGeometry x="20" y="414" width="200" height="391.62" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
