@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0" version="26.2.9">
   <diagram id="WI9T0HZ2pTsCkuznbFz-" name="Page-1">
-    <mxGraphModel dx="780" dy="514" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1300" dy="857" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -30,14 +30,14 @@
         <mxCell id="FIyyPZFt72G_BdUJnwf7-14" value="Discos de Backup" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="233.1" y="580.25" width="107.3" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="FIyyPZFt72G_BdUJnwf7-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=blockThin;startFill=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;endArrow=blockThin;endFill=0;" parent="1" source="FIyyPZFt72G_BdUJnwf7-40" target="FIyyPZFt72G_BdUJnwf7-6" edge="1">
+        <mxCell id="FIyyPZFt72G_BdUJnwf7-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=blockThin;startFill=0;endArrow=blockThin;endFill=0;" parent="1" source="FIyyPZFt72G_BdUJnwf7-63" target="FIyyPZFt72G_BdUJnwf7-6" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="539" y="412.9999999999999" as="sourcePoint" />
+            <mxPoint x="513.9999999999998" y="477" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FIyyPZFt72G_BdUJnwf7-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=0;exitX=0.996;exitY=0.39;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="FIyyPZFt72G_BdUJnwf7-40" target="FIyyPZFt72G_BdUJnwf7-8" edge="1">
+        <mxCell id="FIyyPZFt72G_BdUJnwf7-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="FIyyPZFt72G_BdUJnwf7-63" target="FIyyPZFt72G_BdUJnwf7-8" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="619" y="412.9999999999999" as="sourcePoint" />
+            <mxPoint x="643.48" y="466" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="FIyyPZFt72G_BdUJnwf7-19" value="SSD" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
@@ -75,15 +75,6 @@
             <mxPoint x="419" y="308" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="FIyyPZFt72G_BdUJnwf7-65" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=blockThin;startFill=0;endArrow=blockThin;endFill=0;" parent="1" source="FIyyPZFt72G_BdUJnwf7-40" target="FIyyPZFt72G_BdUJnwf7-63" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="FIyyPZFt72G_BdUJnwf7-40" value="" style="image;html=1;image=img/lib/clip_art/networking/Switch_128x128.png" parent="1" vertex="1">
-          <mxGeometry x="514" y="427" width="130" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="FIyyPZFt72G_BdUJnwf7-41" value="Switch de Borde" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="514" y="507" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FIyyPZFt72G_BdUJnwf7-68" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=blockThin;startFill=0;endArrow=blockThin;endFill=0;" parent="1" source="FIyyPZFt72G_BdUJnwf7-48" target="FIyyPZFt72G_BdUJnwf7-59" edge="1">
           <mxGeometry relative="1" as="geometry" />
