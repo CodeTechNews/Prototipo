@@ -1,13 +1,13 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0" version="26.2.9">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0" version="26.2.10">
   <diagram id="WI9T0HZ2pTsCkuznbFz-" name="Page-1">
-    <mxGraphModel dx="1300" dy="857" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1200" dy="791" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="FIyyPZFt72G_BdUJnwf7-6" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.ethernet_port;" parent="1" vertex="1">
           <mxGeometry x="469" y="567.5" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="FIyyPZFt72G_BdUJnwf7-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=blockThin;startFill=0;endArrow=blockThin;endFill=0;" parent="1" source="FIyyPZFt72G_BdUJnwf7-7" target="FIyyPZFt72G_BdUJnwf7-9" edge="1">
+        <mxCell id="FIyyPZFt72G_BdUJnwf7-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=blockThin;startFill=0;endArrow=blockThin;endFill=0;" parent="1" source="FIyyPZFt72G_BdUJnwf7-7" target="PiKH6cgHyGmwN6HzcSbU-2" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="479" y="718" />
@@ -19,10 +19,18 @@
           <mxGeometry x="469" y="589.5" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="FIyyPZFt72G_BdUJnwf7-8" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.ethernet_port;" parent="1" vertex="1">
-          <mxGeometry x="669" y="645.5" width="20" height="20" as="geometry" />
+          <mxGeometry x="669" y="614" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="PiKH6cgHyGmwN6HzcSbU-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;startArrow=blockThin;startFill=0;endArrow=blockThin;endFill=0;" edge="1" parent="1" source="FIyyPZFt72G_BdUJnwf7-9" target="FIyyPZFt72G_BdUJnwf7-63">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="700" y="650" />
+              <mxPoint x="700" y="308" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="FIyyPZFt72G_BdUJnwf7-9" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.ethernet_port;" parent="1" vertex="1">
-          <mxGeometry x="669" y="671" width="20" height="20" as="geometry" />
+          <mxGeometry x="669" y="639.5" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="FIyyPZFt72G_BdUJnwf7-10" value="RAID1&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Espejo&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="233.1" y="537" width="107.3" height="30" as="geometry" />
@@ -35,7 +43,7 @@
             <mxPoint x="513.9999999999998" y="477" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FIyyPZFt72G_BdUJnwf7-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="FIyyPZFt72G_BdUJnwf7-63" target="FIyyPZFt72G_BdUJnwf7-8" edge="1">
+        <mxCell id="FIyyPZFt72G_BdUJnwf7-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=blockThin;startFill=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endArrow=blockThin;endFill=0;" parent="1" source="FIyyPZFt72G_BdUJnwf7-63" target="FIyyPZFt72G_BdUJnwf7-8" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="643.48" y="466" as="sourcePoint" />
           </mxGeometry>
@@ -53,10 +61,10 @@
           <mxGeometry x="499" y="584.5" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FIyyPZFt72G_BdUJnwf7-29" value="Ethernet 1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="609" y="641" width="60" height="30" as="geometry" />
+          <mxGeometry x="609" y="609.5" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FIyyPZFt72G_BdUJnwf7-30" value="Ethernet 2" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="609" y="668" width="60" height="30" as="geometry" />
+          <mxGeometry x="609" y="636.5" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FIyyPZFt72G_BdUJnwf7-33" value="Server de Backup" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="351.89" y="501" width="115" height="30" as="geometry" />
@@ -141,6 +149,12 @@
         </mxCell>
         <mxCell id="FIyyPZFt72G_BdUJnwf7-82" value="Especificaciones técnicas:&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;Servidor de backup:&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;- 2 tarjetas de Red o&amp;nbsp;conexión SCSI.&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;- 2 Discos SSD o HDD para replicar el sistema operativo.&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;- 3 Discos SSD o SAS para copia de archivos y tolerancia a fallos.&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;Servidor de Esxi:&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;- 2 tarjetas de Red o conexión SCSI.&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;En caso de no poder realizar conexión directa desde el server de Backup al VMware, crear una VLAN de Backup.&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" parent="1" vertex="1">
           <mxGeometry x="60" y="413.44" width="170" height="391.62" as="geometry" />
+        </mxCell>
+        <mxCell id="PiKH6cgHyGmwN6HzcSbU-2" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.ethernet_port;" vertex="1" parent="1">
+          <mxGeometry x="669" y="666.5" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="PiKH6cgHyGmwN6HzcSbU-3" value="Ethernet 3" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="609" y="661.5" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
